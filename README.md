@@ -1,5 +1,7 @@
 # Munchly:  Food Ordering Web App (Frontend)
 
+![home page](image/home.png)
+
 This is the frontend of a responsive food ordering web app built with React and CSS. It provides an interactive user experience with seamless navigation, a shopping cart system, and smooth animations.
 
 <h2>🚀 Features</h2>
@@ -26,4 +28,8 @@ CSS (for styling & animations)
 
 <h2>📸 Screenshots</h2>
 
-<h4></h4>
+<h4>Sign up</h4>
+![signup](image/signup.png)
+
+<h4>Login</h4>
+![login](image/login.png)
