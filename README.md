@@ -39,31 +39,37 @@ CSS (for styling & animations)
 
 <h3>Menu</h3>
 
-![login](image/menu.png)
+![menu](image/menu.png)
 
 <h3>Dishes</h3>
 
-![login](image/dishes.png)
+![dishes](image/dishes.png)
 
 <h3>Get food as you wish</h3>
 
-![login](image/menuChoose.png)
+![menu choosing](image/menuChoose.png)
 
 <h3>App Download and Footer section</h3>
 
-![login](image/footer.png)
+![footer](image/footer.png)
 
 <h3>Order page</h3>
 
-![login](image/orderpage.png)
+![order page](image/orderpage.png)
 
 <h3>Fill Delivery Details</h3>
 
-![login](image/deliverypage.png)
+![delivery page](image/deliverypage.png)
 
 <h3>Responsiveness</h3>
 
-![login](image/mobilehome.png)
-![login](image/mobilemenu.png)
-![login](image/mobilefooter.png)
+![mobile home](image/mobilehome.png)
+
+<h3>Menu in Small Device</h3>
+
+![mobile menu](image/mobilemenu.png)
+
+<h3>Footer in Small Device</h3>
+
+![mobile footer](image/mobilefooter.png)
 
