@@ -1,8 +1,29 @@
-# React + Vite
+# Munchly:  Food Ordering Web App (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend of a responsive food ordering web app built with React and CSS. It provides an interactive user experience with seamless navigation, a shopping cart system, and smooth animations.
 
-Currently, two official plugins are available:
+<h2>🚀 Features</h2>
+✅ Responsive UI built with React & CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ React Router for seamless navigation
+
+✅ Optimized state management with useContext & useReducer
+
+✅ Interactive cart system 🛒
+
+✅ Engaging hamburger menu & mobile-friendly UI 📱
+
+✅ Smooth animations & hover effects for better UX
+
+<h2>🛠️ Tech Stack</h2> 
+React (for UI components), 
+
+React Router (for navigation), 
+
+Context API & useReducer (for state management), 
+
+CSS (for styling & animations)
+
+<h2>📸 Screenshots</h2>
+
+<h4></h4>
